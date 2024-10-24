@@ -1,6 +1,6 @@
-# Item1
 
-**What is this?**
+
+#What is this?
 
 I wanted to test out the Grok-beta API so I started working on this streamlit wrapper for it. I'm using the OpenAI Python Package since Grok is compatible with it.
 
